@@ -1,6 +1,6 @@
 # QuickSkill 👥
 
-A lightweight **Spring Boot + React** app to manage users and their skills.  
+A lightweight **Spring Boot** app to manage users and their skills.  
 Built to be fast, portable, and easy to showcase — no database required (uses in-memory storage).
 
 ---
@@ -14,13 +14,4 @@ Built to be fast, portable, and easy to showcase — no database required (uses 
 - CORS enabled for frontend communication
 - Java 17 compatible
 
-### Frontend (React)
-- React functional components
-- Axios for API integration
-- Minimal UI with basic state management
-- Supports adding, listing, and deleting users with skills
-
 ---
-
-## 📁 Project Structure
-
